@@ -47,15 +47,15 @@
 
 # Reinforcement Learning
 
-### reinforcement learning by Sung Kim
-https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG
+- ##### reinforcement learning by Sung Kim
+> https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG
 
 ---
 
 # ETC
 
-### metarials
-https://bbongcol.github.io/deep-learning-bookmarks/
+- ##### metarials
+> https://bbongcol.github.io/deep-learning-bookmarks/
 
-### mind map
-https://www.mindmeister.com/ko/812276967/_?fullscreen=1
+- ##### mind map
+> https://www.mindmeister.com/ko/812276967/_?fullscreen=1
