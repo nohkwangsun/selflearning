@@ -1,10 +1,12 @@
 # Machine Learning
 
-### ML by Andrew Ng
+### Machine Learning by Andrew Ng
 
-https://www.coursera.org/learn/machine-learning
+- ##### Coursera
+> https://www.coursera.org/learn/machine-learning
 
-https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+- ##### Youtube
+> https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 ---
 
@@ -12,38 +14,34 @@ https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 ## Deap Learning course by Andrew Ng
 
-##### Coursera
-
->> https://www.coursera.org/specializations/deep-learning 
+- ##### Coursera
+> https://www.coursera.org/specializations/deep-learning 
 
 ## Deep Learning by Sung Kim
 
-##### Youtube
-
-https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
+- ##### Youtube
+> https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 
 
 ## cs231n
 
-##### cs231n official site
+- ##### cs231n official site
+> http://cs231n.stanford.edu/
 
->> http://cs231n.stanford.edu/
+- ##### cs231n korean version
+> http://aikorea.org/cs231n/
 
-##### cs231n korean version
-http://aikorea.org/cs231n/
+- ##### cs231n Spring 2017
+> https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
-##### cs231n Spring 2017
-https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+- ##### cs231n Winter 2016
+> https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG
 
-##### cs231n Winter 2016
-https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG
+- ##### cs231n korean version by DSBA, Korea Univ
+> https://www.youtube.com/playlist?list=PLetSlH8YjIfXMONyPC1t3uuDlc1Mc5F1A
 
-####3 cs231n korean version by DSBA, Korea Univ
-https://www.youtube.com/playlist?list=PLetSlH8YjIfXMONyPC1t3uuDlc1Mc5F1A
-
-##### cs231n korean version by Kyoseok Song
-https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5
-
+- ##### cs231n korean version by Kyoseok Song
+> https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5
 
 ---
 
