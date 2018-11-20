@@ -3,17 +3,17 @@
 
 ## Books
 
-- ##### Hands-On Machine Learning with Scikit-Learn and TensorFlow
-> http://www.yes24.com/24/goods/59878826
+- ##### Data Science from Scratch
+> http://www.yes24.com/24/Goods/27951467
 
 - ##### Introduction to Machine Learning with Python
 > http://www.yes24.com/24/goods/42806875
 
+- ##### Hands-On Machine Learning with Scikit-Learn and TensorFlow
+> http://www.yes24.com/24/goods/59878826
+
 - ##### Machine Learning IN ACTION
 > http://www.yes24.com/24/goods/9046762
-
-- ##### Data Science from Scratch
-> http://www.yes24.com/24/Goods/27951467
 
 - ##### Pattern Recognition and Machine Learning
 > http://www.yes24.com/24/goods/64189352
