@@ -1,6 +1,24 @@
+
 # Machine Learning
 
-### Machine Learning by Andrew Ng
+## Books
+
+- ##### Hands-On Machine Learning with Scikit-Learn and TensorFlow
+> http://www.yes24.com/24/goods/59878826
+
+- ##### Introduction to Machine Learning with Python
+> http://www.yes24.com/24/goods/42806875
+
+- ##### Machine Learning IN ACTION
+> http://www.yes24.com/24/goods/9046762
+
+- ##### Data Science from Scratch
+> http://www.yes24.com/24/Goods/27951467
+
+- ##### Pattern Recognition and Machine Learning
+> http://www.yes24.com/24/goods/64189352
+
+## Machine Learning by Andrew Ng
 
 - ##### Coursera
 > https://www.coursera.org/learn/machine-learning
@@ -11,6 +29,11 @@
 ---
 
 # Deep Learning
+
+## Books
+
+- ##### Deep Learning from Scratch
+> http://www.yes24.com/24/goods/34970929
 
 ## Deap Learning course by Andrew Ng
 
@@ -49,6 +72,18 @@
 
 - ##### reinforcement learning by Sung Kim
 > https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG
+
+---
+
+# Mathmatics
+
+## Books
+
+- ##### Linear Algebra for Programmer
+> http://www.yes24.com/24/goods/64189352
+
+- ##### Coding the Matrix
+> http://www.yes24.com/24/goods/17967245
 
 ---
 
