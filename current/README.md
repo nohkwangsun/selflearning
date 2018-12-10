@@ -45,8 +45,8 @@
 
 # ETC
 
-- ##### metarials
 > http://www.kmooc.kr
 
-- ##### mind map
 > https://www.edwith.org
+
+> http://www.kocw.net
