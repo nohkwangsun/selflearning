@@ -10,14 +10,15 @@ multi paradigm : OOP + FP
 # INSTALL
 ---
 
-i. JAVA
- 1) DOWNLOAD JDK (https://jdk.java.net/8/)
- 2) SET JAVA_HOME
- 3) SET PATH
+- JAVA
+ 1. DOWNLOAD JDK (https://jdk.java.net/8/)
+ 2. SET JAVA_HOME
+ 3. SET PATH
 
-ii. Scala
- 1) DOWNLOAD Scala (https://www.scala-lang.org/download)
- 2) SET SCALA_HOME
+- Scala
+ 1. DOWNLOAD Scala (https://www.scala-lang.org/download)
+ 2. SET SCALA_HOME
+ 3. SET PATH
 
 ---
 # Hello, World!
