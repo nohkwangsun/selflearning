@@ -82,3 +82,4 @@ scala> println(res0)
 - [Implicit Method Argument](https://alvinalexander.com/scala/scala-implicit-method-arguments-fields-example)
 
 ---
+# END
