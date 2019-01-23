@@ -77,6 +77,7 @@ scala> println(res0)
 ---
 
 - [Scala Cheat Sheet](https://alvinalexander.com/scala/scala-cheat-sheet-reference-examples)
+- [trait](http://joelabrahamsson.com/learning-scala-part-seven-traits/)
 - [Case Class](https://alvinalexander.com/scala/fp-book/quick-review-of-scala-case-classes)
 - [Implicit Class](https://alvinalexander.com/scala/scala-2.10-implicit-class-example)
 - [Implicit Method Argument](https://alvinalexander.com/scala/scala-implicit-method-arguments-fields-example)
