@@ -40,4 +40,45 @@ Hello, World!
 ```
 
 ---
+```
+$ cat << EOF >> helloworldapp.scala
+object HelloWorld extends App {
+  println("Hello, World!")
+}
+EOF
+
+$ scalac helloworldapp.scala # Class명과 달라도 됨
+
+$ scala helloworldapp
+Hello, World!
+```
+
+---
+# REPL
+---
+
+```
+$ scala
+
+scala>
+
+scala> println("Hello, World!")
+Hello, World!
+
+scala> 1
+res0: Int = 1
+
+scala> println(res0)
+1
+
+```
+---
+# LINK
+---
+
+- [Scala Cheat Sheet](https://alvinalexander.com/scala/scala-cheat-sheet-reference-examples)
+- [Case Class](https://alvinalexander.com/scala/fp-book/quick-review-of-scala-case-classes)
+- [Implicit Class](https://alvinalexander.com/scala/scala-2.10-implicit-class-example)
+- [Implicit Method Argument](https://alvinalexander.com/scala/scala-implicit-method-arguments-fields-example)
+
 ---
